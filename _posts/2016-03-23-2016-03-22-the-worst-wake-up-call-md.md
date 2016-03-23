@@ -4,7 +4,7 @@ category: blog
 splash: ""
 tags: null
 published: false
-title: "2016-03-22-the-worst-wake-up-call.md"
+title: The worst wake up call
 ---
 
 ## "I hope you and your friends and family are safe"

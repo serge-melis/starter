@@ -3,7 +3,7 @@ layout: blog
 category: blog
 splash: ""
 tags: null
-published: false
+published: true
 title: The worst wake up call
 ---
 
